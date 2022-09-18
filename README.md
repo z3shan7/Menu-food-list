@@ -54,7 +54,6 @@ I got the idea of how to work with Api's how to add elements dynamically in java
 
 - I initially wrote a switch in the JS for going between the three different states, which worked well, but I felt I could simplify the code even further because I didn't want repetition. I first tried going in the direction of using `Object(keys)` but in the end I realized that things are actually a lot more simpler, and all it took was just one line of deconstruction.
 
-Overall, the JS was probably the easiest part of the project; the biggest challenge for me was figuring out widths in flexbox, especially when there are nested flex components. I ended up using grid in the end for the cards, and I feel I need a refresher on both flexbox and grid, as well as some deeper understanding in the more advanced concepts.
 
 
 
